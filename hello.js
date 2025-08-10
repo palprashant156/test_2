@@ -1,2 +1,3 @@
 const a = 3.14;
-console.log(a);
+const b = 2.71;
+console.log(a*b);
